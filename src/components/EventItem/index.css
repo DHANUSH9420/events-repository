@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.list-con {
+  display: flex;
+  flex-direction: column;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  margin-top: 8px;
+  width: 200px;
+  height: 200px;
+  font-family: Roboto;
+  list-style-type: none;
+  color: #f8fafc;
+}
+.img {
+  width: 150px;
+  height: 100px;
+  margin-bottom: 5px;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.p1 {
+  font-size: 15px;
+}
+.p2 {
+  font-size: 13px;
+}
+.border-col {
+  border-color:#2dd4bf;
+  border-width: 2px;
+  border-style: solid;
+}
